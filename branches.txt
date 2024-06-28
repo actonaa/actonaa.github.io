@@ -1,0 +1,9 @@
+git branch hello-world-images
+
+git checkout hello-world-images / git checkout -b hello-world-images
+
+git checkout master (to switched branch)
+
+git merge hello-world-images (for fusion/merge to master branch)
+
+git branch -d hello-world-images (for delete)
